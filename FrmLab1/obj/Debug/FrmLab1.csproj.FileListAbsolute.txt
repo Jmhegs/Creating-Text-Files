@@ -1,0 +1,13 @@
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\bin\Debug\FrmLab1.exe.config
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\bin\Debug\FrmLab1.exe
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\bin\Debug\FrmLab1.pdb
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\obj\Debug\FrmLab1.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\obj\Debug\FrmLab1.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\obj\Debug\FrmLab1.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\obj\Debug\FrmLab1.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\obj\Debug\FrmLab1.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\obj\Debug\FrmLab1.exe
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\obj\Debug\FrmLab1.pdb
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\obj\Debug\FrmLab1.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\obj\Debug\FrmLab1.FrmOpenTextFile.resources
+C:\Users\ComputerLab4PC1\source\repos\FrmLab1\obj\Debug\FrmLab1.FrmStudentRecord.resources
